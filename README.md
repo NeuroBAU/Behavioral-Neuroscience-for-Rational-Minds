@@ -56,7 +56,7 @@ The main goal of the course is to support students in the development of the min
 **We do not understand how artificial neural networks form and use representations despite their simple units and full experimental access to the network (is this a new wave of behaviorism?). We adopt the same approach in biological neural networks (i.e. gathering data from large numbers of biological neurons). Is this approach doomed to fail?.**
 * _Barrett, D.G.T., Morcos, A.S., and Macke, J.H. (2018). Analyzing biological and artificial neural networks: challenges with opportunities for synergy? ArXiv:1810.13373 [Cs, q-Bio, Stat]._
 
-**Can we decode cognitive processes directly in the neural tissue?**
+**Can we decode cognitive processes directly from the neural tissue?**
 * Wallis, J.D. (2018). Decoding Cognitive Processes from Neural Ensembles. Trends in Cognitive Sciences 0.
 
 **The paper that introduced the concept of mini-endoscope to image clcium dynamics in freely moving rodents.**
