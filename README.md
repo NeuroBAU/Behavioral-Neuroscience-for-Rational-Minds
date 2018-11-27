@@ -42,7 +42,7 @@ The main goal of the course is to support students in the development of the min
 **Merging levels of explanation in cognitive and neural science.** _The original book is some kind of rarity. The new edition (2010) is available_
 * [Marr, D. (1982). Vision: a computational investigation into the human representation and processing of visual information (Cambridge, Mass: MIT Press).](https://www.amazon.com/Vision-Computational-Investigation-Representation-Information/dp/0262514621)
 
-**A gentle and clever introduction to neural networks and the concept of representation in connectionist models. - see chapter 4**
+**A gentle and clever introduction to neural networks and the concept of representation in connectionist models - see chapter 4**
 * [Gluck, M.A., and Myers, C.E. (2001). Gateway to memory: an introduction to neural network modeling of the hippocampus and learning (Cambridge, Mass: MIT Press).](https://www.amazon.com/Gateway-Memory-Introduction-Hippocampus-Neuropsychology/dp/0262571528)
 
 **Connectionism and PDP - very interesting read if you're interested in the origins of modern deep learning. Inspiring depictions of the network models show actual synapses connecting the units. Synergies between neuroscience and artificial neural networks.**
@@ -82,11 +82,11 @@ The main goal of the course is to support students in the development of the min
 **The computational challenges we face everyday in our life and how algorithms help us cope with them. Do the study and application of these algorithms inform research on cognition?**
 * [Christian, B., and Griffiths, T. (2017). Algorithms to live by: the computer science of human decisions (London: William Collins).](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)
 
-**Are animals capable of detecting statistical patterns from the envrironment?**
+**Are animals capable of detecting statistical patterns in the environment?**
 * [Santolin, C., and Saffran, J.R. (2017). Constraints on Statistical Learning Across Species. Trends in Cognitive Sciences.](https://www.sciencedirect.com/science/article/pii/S1364661317302231)
 
 **Representations may not be necessary to develop intelligent systems.**
 * [Brooks, R.A. (1991). Intelligence without representation. Artificial Intelligence 47, 139–159.](https://people.csail.mit.edu/brooks/papers/representation.pdf)
 
-**Another paper highlighting the synergies between biological and artificial neural networks - the paper is docused on learning in Drosophila circuits.**
+**Another paper highlighting the synergies between biological and artificial neural networks - the paper is focused on learning in Drosophila circuits.**
 * [Srinivasan, S., Greenspan, R.J., Stevens, C.F., and Grover, D. (2018). Deep(er) Learning. The Journal of Neuroscience 38, 7365–7374.](http://www.jneurosci.org/content/early/2018/07/13/JNEUROSCI.0153-18.2018)
