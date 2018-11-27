@@ -10,7 +10,7 @@ The main goal of the course is to support students in the development of the min
 ### SESSION 1
 
 **Matching neural states and behavioral states in experimental neuroscience requires a top-down approach.**
-* Krakauer, J.W., Ghazanfar, A.A., Gomez-Marin, A., MacIver, M.A., and Poeppel, D. (2017). Neuroscience Needs Behavior: Correcting a Reductionist Bias. Neuron 93, 480–490.
+* [Krakauer, J.W., Ghazanfar, A.A., Gomez-Marin, A., MacIver, M.A., and Poeppel, D. (2017). Neuroscience Needs Behavior: Correcting a Reductionist Bias. Neuron 93, 480–490.](https://www.sciencedirect.com/science/article/pii/S0896627316310406)
 
 **Proposed statement about modern systems neuroscience.**
 * [The Modern Neuroscience Statement - Google Docs](https://docs.google.com/document/d/1Lo0rVNMUrW68tzo2KIpxYqNV9y_tmz6ipbF8cNwL4j8/)
@@ -19,7 +19,7 @@ The main goal of the course is to support students in the development of the min
 * Heider, F., and Simmel, M. (1944). An Experimental Study of Apparent Behavior. The American Journal of Psychology 57, 243. You can watch the video here:  https://www.youtube.com/watch?v=76p64j3H1Ng
 
 **Introduction to the concept of mental representation - you need a strong stomach to digest these very dense pages.**
-* Pylyshyn, Z.W. (1989). Computation and cognition: toward a foundation for cognitive science (Cambridge, Mass.: MIT Press).
+* [Pylyshyn, Z.W. (1989). Computation and cognition: toward a foundation for cognitive science (Cambridge, Mass.: MIT Press).](https://www.amazon.com/Computation-Cognition-Foundation-Cognitive-Science/dp/026266058X)
 
 **Introduction to cognitive science - Tracing the origin of the study of the mind.**
 * Bermúdez, J.L. (2014). Cognitive science: an introduction to the science of the mind (Cambridge: Cambridge University Press).
