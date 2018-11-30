@@ -115,7 +115,24 @@ _The original book is some kind of rarity. The new edition (2010) is available_
 
 * [ARRIVE guidelines: the checklist](https://www.nc3rs.org.uk/sites/default/files/documents/Guidelines/NC3Rs%20ARRIVE%20Guidelines%202013.pdf)
 
-## Session 3.2 - SOFTWARES & APPROACHES FOR BEHAVIORAL DATA EXTRACTION + ANALYSIS ##
+## Session 3.2 - STANDARDIZED BEHAVIORAL ASSAYS ##
+
+* [Crabbe, J.C. (1999). Genetics of Mouse Behavior: Interactions with Laboratory Environment. Science 284, 1670–1672.](http://psych.colorado.edu/~carey/pdfFiles/MouseLab_Crabbe.pdf)
+
+* [Touchscreen: equipment](https://campdeninstruments.com/products/bussey-saksida-touch-screen-chamber-mouse
+https://www.youtube.com/watch?v=JBh5BJ-kUuA&t=2308s)
+
+* [Touchscreen: video](https://www.youtube.com/watch?v=JBh5BJ-kUuA&t=2308s)
+
+* [Phenotyper and Cogniton wall for cognitive flexibility studies](https://www.sylics.com/bioinformatics/cognitionwall/)
+
+* [Intellicage: video](https://www.youtube.com/watch?v=fz6_nCbIs6Q)
+
+* [Phenoworld](https://www.tse-systems.com/product-details/phenoworld)
+
+* [Schaefer, A.T., and Claridge-Chang, A. (2012). The surveillance state of behavioral automation. Current Opinion in Neurobiology 22, 170–176.](https://www.sciencedirect.com/science/article/pii/S0959438811001942?via%3Dihub)
+
+## Session 3.3 - SOFTWARES & APPROACHES FOR BEHAVIORAL DATA EXTRACTION + ANALYSIS ##
 
 #### OpenBehavior: a website collecting resources for behavioral neuroscience research ####
 
@@ -128,14 +145,15 @@ _The original book is some kind of rarity. The new edition (2010) is available_
 * [GitHub page of DeepLabCut](https://github.com/AlexEMG/DeepLabCut)
 
 * [Using DeepLabCut for 3D markerless pose estimation across species and behaviors](https://www.biorxiv.org/content/early/2018/11/24/476531)*
-
+<br/>
+<br/>
 ## Extra ##
 
 #### The computational challenges we face everyday in our life and how algorithms help us cope with them. Do the study and application of these algorithms inform research on cognition? ####
 
 * [Christian, B., and Griffiths, T. (2017). Algorithms to live by: the computer science of human decisions (London: William Collins).](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)
 
-#### Are animals capable of detecting statistical patterns in the environment?####
+#### Are animals capable of detecting statistical patterns in the environment? ####
 
 * [Santolin, C., and Saffran, J.R. (2017). Constraints on Statistical Learning Across Species. Trends in Cognitive Sciences.](https://www.sciencedirect.com/science/article/pii/S1364661317302231)
 
@@ -143,6 +161,6 @@ _The original book is some kind of rarity. The new edition (2010) is available_
 
 * [Brooks, R.A. (1991). Intelligence without representation. Artificial Intelligence 47, 139–159.](https://people.csail.mit.edu/brooks/papers/representation.pdf)
 
-#### Another paper highlighting the synergies between biological and artificial neural networks - the paper is focused on learning in Drosophila circuits.####
+#### Another paper highlighting the synergies between biological and artificial neural networks - the paper is focused on learning in Drosophila circuits ####
 
 * [Srinivasan, S., Greenspan, R.J., Stevens, C.F., and Grover, D. (2018). Deep(er) Learning. The Journal of Neuroscience 38, 7365–7374.](http://www.jneurosci.org/content/early/2018/07/13/JNEUROSCI.0153-18.2018)
