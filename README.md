@@ -63,7 +63,7 @@ _The original book can still be found on Amazon_
 * [Rumelhart, D.E., and McClelland, J.L. (1986). Parallel distributed processing: explorations in the microstructure of cognition (Cambridge, Mass: MIT Press).](https://dl.acm.org/citation.cfm?id=104279)
 * [Garson, J. (2018). Connectionism. In The Stanford Encyclopedia of Philosophy, E.N. Zalta, ed. (Metaphysics Research Lab, Stanford University)](https://plato.stanford.edu/entries/connectionism/)
 
-### Session 2 - AGENT-BASED DESIGN OF BEHAVIORAL EXPERIMENTS ###
+## Session 2 - AGENT-BASED DESIGN OF BEHAVIORAL EXPERIMENTS ##
 
 #### DARPA's interest in systems that develop representations and learn cause-effect relationship in real world problems ####
 
@@ -94,7 +94,7 @@ _The original book can still be found on Amazon_
 * [Atsumi, T., Ide, M., and Wada, M. (2018). Spontaneous Discriminative Response to the Biological Motion Displays Involving a Walking Conspecific in Mice. Front. Behav. Neurosci. 12.](https://www.frontiersin.org/articles/10.3389/fnbeh.2018.00263/full)
 * S. Heath, et al. PiRat: An autonomous rat-sized robot as a social companion for studying social behavior in rats using real-time tracking./Program No. 520.02. 2018 Neuroscience Meeting Planner. San Diego, CA: Society for Neuroscience, 2018. Online./
 
-### Session 3.1 - REPRODUCIBILITY ###
+## Session 3.1 - REPRODUCIBILITY ##
 
 #### Reproducibility in Science: a survey of 1500 scientists ####
 
