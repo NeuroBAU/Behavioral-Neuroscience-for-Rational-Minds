@@ -32,7 +32,7 @@ The main goal of the course is to support students in the development of the min
 
 #### Behavior is supported by multiple, concurrent actions ####
 
-* [Lashley, K.S. The Problem of Serial Order in Behavior. 36.(http://www.s-f-walker.org.uk/pubsebooks/pdfs/The_Problem_of_Serial_Order_in_Behavior.pdf)
+* [Lashley, K.S. The Problem of Serial Order in Behavior.](http://www.s-f-walker.org.uk/pubsebooks/pdfs/The_Problem_of_Serial_Order_in_Behavior.pdf)
 
 #### Cognitive revolution in the words of scientists that lived and contributed to it ####
 
@@ -50,7 +50,8 @@ _The original book can still be found on Amazon_
 * [Hebb, Donald (1949). The Organization of Behavior. New York: Wiley & Sons.](https://www.amazon.com/Organization-Behavior-Neuropsychological-Theory/dp/0805843000)
 * [Nadel, L., and Maurer, A.P. Recalling Lashley and Reconsolidating Hebb. Hippocampus 0.](https://onlinelibrary.wiley.com/doi/abs/10.1002/hipo.23027)
 
-#### Merging levels of explanation in cognitive and neural science ####  _The original book is some kind of rarity. The new edition (2010) is available_
+#### Merging levels of explanation in cognitive and neural science ####
+_The original book is some kind of rarity. The new edition (2010) is available_
 
 * [Marr, D. (1982). Vision: a computational investigation into the human representation and processing of visual information (Cambridge, Mass: MIT Press).](https://www.amazon.com/Vision-Computational-Investigation-Representation-Information/dp/0262514621)
 
@@ -62,7 +63,7 @@ _The original book can still be found on Amazon_
 
 * [Rumelhart, D.E., and McClelland, J.L. (1986). Parallel distributed processing: explorations in the microstructure of cognition (Cambridge, Mass: MIT Press).](https://dl.acm.org/citation.cfm?id=104279)
 * [Garson, J. (2018). Connectionism. In The Stanford Encyclopedia of Philosophy, E.N. Zalta, ed. (Metaphysics Research Lab, Stanford University)](https://plato.stanford.edu/entries/connectionism/)
-
+&nbsp;
 ## Session 2 - AGENT-BASED DESIGN OF BEHAVIORAL EXPERIMENTS ##
 
 #### DARPA's interest in systems that develop representations and learn cause-effect relationship in real world problems ####
