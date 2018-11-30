@@ -109,9 +109,11 @@ _The original book is some kind of rarity. The new edition (2010) is available_
 
 * [Gulinello, M., Mitchell, H.A., Chang, Q., Timothy O’Brien, W., Zhou, Z., Abel, T., Wang, L., Corbin, J.G., Veeraragavan, S., Samaco, R.C., et al. (2018). Rigor and reproducibility in rodent behavioral research. Neurobiology of Learning and Memory.](https://www.sciencedirect.com/science/article/pii/S1074742718300017)
 
-#### A checklist for preparing your research project ####
+#### Checklists for preparing and reporting your research project ####
 
 * [PREPARE guidelines: the checklist](https://norecopa.no/media/7864/prepare_checklist_english.pdf)
+
+* [ARRIVE guidelines: the checklist](https://www.nc3rs.org.uk/sites/default/files/documents/Guidelines/NC3Rs%20ARRIVE%20Guidelines%202013.pdf)
 
 ## Session 3.2 - SOFTWARES & APPROACHES FOR BEHAVIORAL DATA EXTRACTION + ANALYSIS ##
 
@@ -126,8 +128,6 @@ _The original book is some kind of rarity. The new edition (2010) is available_
 * [GitHub page of DeepLabCut](https://github.com/AlexEMG/DeepLabCut)
 
 * [Using DeepLabCut for 3D markerless pose estimation across species and behaviors](https://www.biorxiv.org/content/early/2018/11/24/476531)*
-
----
 
 ## Extra ##
 
