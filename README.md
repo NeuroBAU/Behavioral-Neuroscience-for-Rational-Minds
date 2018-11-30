@@ -93,7 +93,7 @@ _The original book is some kind of rarity. The new edition (2010) is available_
 #### Exerting full control on stimulus delivery in the social domain ####
 
 * [Atsumi, T., Ide, M., and Wada, M. (2018). Spontaneous Discriminative Response to the Biological Motion Displays Involving a Walking Conspecific in Mice. Front. Behav. Neurosci. 12.](https://www.frontiersin.org/articles/10.3389/fnbeh.2018.00263/full)
-* S. Heath, et al. PiRat: An autonomous rat-sized robot as a social companion for studying social behavior in rats using real-time tracking./Program No. 520.02. 2018 Neuroscience Meeting Planner. San Diego, CA: Society for Neuroscience, 2018. Online./
+* S. Heath, et al. PiRat: An autonomous rat-sized robot as a social companion for studying social behavior in rats using real-time tracking. _Program No. 520.02. 2018 Neuroscience Meeting Planner. San Diego, CA: Society for Neuroscience, 2018. Online._
 
 ## Session 3.1 - REPRODUCIBILITY ##
 
