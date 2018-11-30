@@ -119,8 +119,7 @@ _The original book is some kind of rarity. The new edition (2010) is available_
 
 * [Crabbe, J.C. (1999). Genetics of Mouse Behavior: Interactions with Laboratory Environment. Science 284, 1670–1672.](http://psych.colorado.edu/~carey/pdfFiles/MouseLab_Crabbe.pdf)
 
-* [Touchscreen: equipment](https://campdeninstruments.com/products/bussey-saksida-touch-screen-chamber-mouse
-https://www.youtube.com/watch?v=JBh5BJ-kUuA&t=2308s)
+* [Touchscreen: equipment](https://campdeninstruments.com/products/bussey-saksida-touch-screen-chamber-mouse)
 
 * [Touchscreen: video](https://www.youtube.com/watch?v=JBh5BJ-kUuA&t=2308s)
 
@@ -145,8 +144,7 @@ https://www.youtube.com/watch?v=JBh5BJ-kUuA&t=2308s)
 * [GitHub page of DeepLabCut](https://github.com/AlexEMG/DeepLabCut)
 
 * [Using DeepLabCut for 3D markerless pose estimation across species and behaviors](https://www.biorxiv.org/content/early/2018/11/24/476531)*
-<br/>
-<br/>
+
 ## Extra ##
 
 #### The computational challenges we face everyday in our life and how algorithms help us cope with them. Do the study and application of these algorithms inform research on cognition? ####
