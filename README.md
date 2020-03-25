@@ -1,6 +1,6 @@
 # Behavioral-Neuroscience-for-Rational-Minds #
 
-![alt text](https://github.com/sciple/Behavioral-Neuroscience-for-Rational-Minds/blob/master/dualism.jpg)
+![alt text](img/dualism.jpg)
 
 ## Course description ##
 

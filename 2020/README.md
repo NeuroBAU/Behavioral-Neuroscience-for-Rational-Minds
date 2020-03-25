@@ -1,6 +1,6 @@
 # Behavioral-Neuroscience-for-Rational-Minds #
 
-![alt text](dualism.jpg)
+![alt text](../img/dualism.jpg)
 
 ## Course description ##
 
