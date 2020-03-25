@@ -4,7 +4,25 @@
 
 ## Course description ##
 
-The main goal of the course [Spring semester 2020 @ University of Lausanne, Switzerland] is to support students in the development of the mindset necessary to both (i) design unbiased experiments and (ii) obtain reproducible results in behavioral neuroscience. To this end, the course will take advantage of a modern framework derived from the field of artificial intelligence to rationalize and operationalize complex concepts in behavioral neuroscience. During the course students will learn a system that eases the transition from traditional behavioral assays to computational behavioral studies that take advantage of modern in-vivo imaging/recording techniques in freely-moving animals. THe course provide a basic introduction to open-source-free softwares for running Estimation Statistics, power/sample size calculations, data extraction from graphs, video/frame analysis. An introduction to basic concepts of Machine learning will get students started in the frame-by-frame behavior classification. An introduction to the analysis of neural signals time-locked to behavioral measures will be provided.
+The main goal of the course [Spring semester 2020 @ University of Lausanne, Switzerland] is to support students in the development of the mindset necessary to both (i) design unbiased experiments and (ii) obtain reproducible results in behavioral neuroscience. To this end, the course will take advantage of a modern framework derived from the field of artificial intelligence to rationalize and operationalize complex concepts in behavioral neuroscience. During the course students will learn a system that eases the transition from traditional behavioral assays to computational behavioral studies that take advantage of modern in-vivo imaging/recording techniques in freely-moving animals. The course provides a basic introduction to open-source / free softwares for running estimation statistics, power/sample size calculations, data extraction from graphs, and video/frame analysis. An introduction to basic concepts of Machine learning will get students started in the frame-by-frame behavior classification. An introduction to the analysis of neural signals time-locked to behavioral measures will be provided.
+
+The main goal of the course is to support students in the development of a mindset necessary to: (i) design unbiased experiments and (ii) obtain reproducible results in behavioral/systems neuroscience. In addition, the course is intended to be a first exposure to basic concepts in machine learning/artificial intelligence and how these approaches support the analysis of behavioral data.
+
+**The course experienced an abrupt disruption in March 2020 due to  the COVID-2019 pandemic. As a consequence of this disruption, the course has been redesigned to fit the "online/remote" learning model.**
+
+Let's keep in mind that "every cloud has a silver lining"! In future years this course will be composed of an introductory in person / face-to-face lesson followed by a series of online courses tutorials. The course will end with a final 3-hour face-to-face workshop aimed at  assessing/refining what students have learned from the online sessions.
+
+
+
+**Part-1.** In the first part (interactive lecture) we provide an introduction to behavioral neuroscience in the context of cognitive science. David Marr’s 3-level analysis together with the conceptualization of artificial agents will be introduced. These concepts will provide a robust framework to address questions at the neural level using a behavioral approach.
+
+**Part-2.** In the second (hands-on) part a behavioral experiment will be developed from scratch. Students will learn (i) strategies to access relevant information in Pubmed, (ii) how to calculate the expected effect size, desired power and sample size and (iii) experimental design and data analysis specifically tailored to behavioral experiments. This part will be complemented with an introduction/tutorial to both free and/or open source software commonly used in behavioral neuroscience studies (e.g. statistical power analyses, data extraction, estimation statistics)
+
+**Part-3.** Students will be trained on a free software for machine learning and  data mining. Using data collected from a real behavioral experiments,  students will learn how to find the best data representation to perform  frame-by-frame behavior recognition using machine learning.
+
+The overarching goal of this module is to move from traditional behavioral experiments where overall statistics of the behavior are collected (e.g. cumulative time spent in the center of an open arena zone) to more dynamic analyses where behavior is time-locked to neural signals.
+
+
 
 ## List of resources ##
 
