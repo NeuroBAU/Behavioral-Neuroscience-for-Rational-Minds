@@ -8,7 +8,7 @@ The main goal of the course [Spring semester 2020 @ University of Lausanne, Swit
 
 The main goal of the course is to support students in the development of a mindset necessary to: (i) design unbiased experiments and (ii) obtain reproducible results in behavioral/systems neuroscience. In addition, the course is intended to be a first exposure to basic concepts in machine learning/artificial intelligence and how these approaches support the analysis of behavioral data.
 
-**The course experienced an abrupt disruption in March 2020 due to  the COVID-2019 pandemic. As a consequence of this disruption, the course has been redesigned to fit the "online/remote" learning model.**
+> **The course experienced an abrupt disruption in March 2020 due to  the COVID-2019 pandemic. As a consequence of this disruption, the course has been redesigned to fit the "online/remote" learning model.**
 
 Let's keep in mind that "every cloud has a silver lining"! In future years this course will be composed of an introductory in person / face-to-face lesson followed by a series of online courses tutorials. The course will end with a final 3-hour face-to-face workshop aimed at  assessing/refining what students have learned from the online sessions.
 
