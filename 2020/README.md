@@ -84,7 +84,10 @@ _The original book is some kind of rarity. The new edition (2010) is available_
 
 #### How the application of concepts derived from Deep learning (Objective function, Learning rule, and Architecture) may lead to novel discoveries in experimental neuroscience ####
 
-* [A deep learning framework for neuroscience](https://www.nature.com/articles/s41593-019-0520-2)https://plato.stanford.edu/entries/connectionism/)
+* [A deep learning framework for neuroscience](https://www.nature.com/articles/s41593-019-0520-2)
+
+#### What is connectionism?
+* https://plato.stanford.edu/entries/connectionism/
 
 
 
